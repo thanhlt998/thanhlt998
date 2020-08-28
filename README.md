@@ -1,1 +1,1 @@
-![about](img/signbot.gif)
+![about](./img/signbot.gif)
